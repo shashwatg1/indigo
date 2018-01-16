@@ -56,10 +56,10 @@ width: large
 
 # if you don't need projects, comment the *projects* configs below
 # projects: true
-research: true
+projects: true
 teaching: true
 about: true
-blog: true
+# blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
