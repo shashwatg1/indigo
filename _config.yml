@@ -1,13 +1,13 @@
 # main text of home
 name: Shashwat Gupta
-bio: Student at IIT Kharagpur
+bio: 'Student at IIT Kharagpur'
 
 # twitter summary info
 description: A blog about Physics and teaching science
 
 # if it's an external image, update below for true
 # better with square images
-external-image: true
+external-image: false
 picture: assets/images/profile.jpg
 
 # url: http://artiannaswamy.com
