@@ -54,9 +54,9 @@ width: large
 # paginate: 5
 # paginate_path: "blog/:num/"
 
-# if you don't need projects, comment the *projects* configs below
-# projects: true
+# if you don't need, comment the configs below
 projects: true
+research: true
 teaching: true
 about: true
 # blog: true
