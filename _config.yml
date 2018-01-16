@@ -7,7 +7,7 @@ description: A blog about Physics and teaching science
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
+external-image: true
 picture: 'assets/images/profile.jpg'
 
 # url: http://artiannaswamy.com
@@ -97,4 +97,4 @@ gems:
 #jekyll-mentions:
     #base_url: http://artiannaswamy.com
 
-exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, indigo-gh-pages.zip, Rakefile, screen-shot.png, travis.sh, tasks]
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, indigo-gh-pages.zip, Rakefile, travis.sh, tasks]
