@@ -38,12 +38,11 @@ github: shashwatg1
 email: shashwatg1@gmail.com
 
 authors:
-    NivedithaRam:
-        name: Niveditha Ram
-        bio: Physics, Reading, Teaching.
+    ShashwatGupta:
+        name: Shashwat Gupta
+        bio: Student at IIT Kharagpur
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: NivedithaRam
 
 
 # do you want a larger site? change the option below
@@ -59,7 +58,6 @@ width: large
 # projects: true
 research: true
 teaching: true
-# if you don't need about or blog, comment them out below
 about: true
 blog: true
 
