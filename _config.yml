@@ -1,5 +1,5 @@
 # main text of home
-name: Niveditha Ram
+name: Shashwat Gupta
 bio: 'Physics, Teaching, Engineering.'
 
 # twitter summary info
@@ -25,13 +25,13 @@ highlighter: rouge
 #disqus: artiannaswamy
 
 # if you don't have any of social below, comment the line
-# facebook: myfacebook
+facebook: myfacebook
 twitter: NivedithaRam
-# google: mygoogle
-# instagram: myinstagram
-#pinterest: annasw
-#linkedin: artiannaswamy
-# youtube: myyoutube
+google: mygoogle
+instagram: myinstagram
+pinterest: annasw
+linkedin: artiannaswamy
+youtube: myyoutube
 # spotify: myspotify
 github: NivedithaRam
 # medium: medium
