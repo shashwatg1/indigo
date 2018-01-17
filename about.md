@@ -13,7 +13,7 @@ I am a border of <a href="http://rkhall.org/" style="text-decoration: none">Radh
 This is the oldest and the largest IIT and there are still places on campus that I probably haven't visited yet. Not being in a metropolitan city, we have created our own unique culture with lots of clubs, societies, events and activities. I am particularly proud of <a href="https://www.scoopwhoop.com/Students-IIT-KGP-Celebrate-Diwali-The-Festival-Of-Lights/#.g7a028x7s" style="text-decoration: none">Illumination</a> which takes place during Diwali.<br>
 Sundar Pichai is our Alumni. Arvind Kejriwal is also our alumni :P
 
-<a href="https://www.shashwat.github.io/curriculum" style="text-decoration: none">My curriculum details can be found here.</a>
+<a href="https://shashwatg1.github.io/curriculum/" style="text-decoration: none">My curriculum details can be found here.</a>
 
 ### <a href="http://www.lamartiniere.co/" style="text-decoration: none">La Martiniere for Boys, Kolkata</a>
 
