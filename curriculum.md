@@ -1,0 +1,30 @@
+---
+title: Curriculum
+layout: page
+---
+![Profile Image]({{ site.url }}/{{ site.picture }})
+
+Here is a list of relevant courses I have undertaken:
+
+* Algorithms^
+* Programming and Data Sctructures^
+* Machine Learning
+* Data Analytics
+* Artificial Intelligence
+* Software Engineering
+* Image Processing
+* Computer Networks
+* Computer Architecture and Operating Systems
+* Probability and Stochastic Processes
+* Digital Electronics^
+* Analog Electronics^
+* Embedded Systems^
+* Programming and Embedded Systems
+* Signals and Networks^
+* Measurements^
+* Data Communication
+* Digital Signal Processing
+* Control Systems^
+* Process Dynamics and Control
+
+^ implies practicum
