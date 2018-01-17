@@ -32,6 +32,7 @@ linkedin: shashwatg1
 # youtube: myyoutube
 # spotify: myspotify
 github: shashwatg1
+lastfm: sg_edm
 # medium: medium
 email: shashwatg1@gmail.com
 
@@ -54,10 +55,10 @@ width: large
 
 # if you don't need, comment the configs below
 # research: true
-# teaching: true
 about: true
 blog: true
 projects: true
+curriculum: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
