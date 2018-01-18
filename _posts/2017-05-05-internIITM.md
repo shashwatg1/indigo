@@ -9,7 +9,7 @@ description: Internship at IIT Madras, Chennai
 
 ---
 <p align="center">
-  <img width="300" height="300" src="/assets/images/posts/internIITM/grad-student.png">
+  <img width="420" height="300" src="/assets/images/posts/internIITM/grad-student.png">
 </p>
 
 <p>Work in Progress</p>
