@@ -1,7 +1,7 @@
 ---
 title: "Internship at IITM"
 layout: post
-date: 2016-05-15 
+date: 2016-05-05 
 headerImage: false
 category: blog
 author: shashwatg1
