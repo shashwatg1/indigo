@@ -1,11 +1,36 @@
 ---
 title: "Internship at GS"
 layout: post
-img: indigo/indigo.png
-blog: true
-author: Shashwat Gupta
-summary: "Internship Experience"
-permalink: interngs
-jemoji: '<img class="emoji" title=":books:" alt=":books:" src="assets/images/posts/goldmansachs/businessplans.png" height="30" width="20" align="absmiddle">'
+date: 2017-03-24 02:37
+image: /assets/noida/head.jpg
+headerImage: true
+category: blog
+author: shashwatg1
+description: Internship at Goldman Sachs, Bengaluru
+
 ---
-<p>Work in progress</p>
+
+A week after the mid-semester examinations concluded, I had one big task at hand. The  student-run society and robotics hobby-maker group at IIT Kharagpur, [Technology Robotix Society](http://robotix.in), conducts technical workshops across the country to spread the culture of robotics; and this time, I, along with one of my co-subheads [Shivang Agrawal](http://www.shivangagrawal.in/) was supposed to spearhead it. The workshop was organized at [Bennett University](http://www.bennett.edu.in/), Noida. Needless to say, the two-day workshop was quite an experience and it's difficult to put down everything in a blog post.
+
+---
+
+An early morning flight from Kolkata took us to New Delhi. Although being on a nightout(we had to leave at midnight from Kharagpur to reach the airport in time), none of us was drowsy because of the excitement of conducting the workshop. Of course, we had conducted workshops before, but never this far from Kharagpur. From the moment after entering the academic area, we couldn't help noticing the wonderful infrastructure the university had developed within the first couple of years of its inception. It looked anything but modern, compared to the 65 year old KGP campus. And a lot.  We knew that that the Vice Chancellor of the university is a KGP alumnus. Dr. Yaj Medury, a KGP alum from the batch of '76 is a way too amiable person. And he lived in Nehru Hall of Residence(the same hall that I live in right now). After a small chat with him about his past days at IIT Kharagpur, we left the office with a little more than double the tempo we walked in with.
+
+![day11](/assets/noida/day11.jpg)
+
+We started the workshop by introducing the junta to the basic concepts of robotics. Following are some of the topics we covered throughout the day:
+- Various locomotory and actuator mechanisms, including different drive mechanisms like Skid-Steer Drive, Ackerman Drive, Differential Drive, etc.
+- Different types of sensors used in common robots and their functioning. Some of the sensors introduced were Accelerometer, Magnetometer, Barometer, SONAR, SHARP and other proximity sensors and inertial measurement units.
+- Analog and Digital Signal.
+- The Arduino Platform and it's programming.
+- Power Electronics, rectification and voltage regulation.
+- Duty Cycle of a signal and Pulse Width Modulation(PWM).
+- 10-bit Analog to Digital Conversion using comparators.
+- Fundamental differences between micro-controllers and microprocessors and various types of memories.
+- Various Communication Protocols including UART, USART, SPI and I2C.
+
+![day12](/assets/noida/day12.jpg)
+
+The crowd seemed quite interested and some of them asked pretty great questions. To keep up the tempo, we demonstrated a semi-autonomous weight detecting robot controlled by an android app. Although due to time constraints, we could not dive into the depths of research-oriented robotics, we did show them videos of various international robotics competitions including IARC and Robocup.
+
+---
