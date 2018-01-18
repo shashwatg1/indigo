@@ -1,12 +1,11 @@
 ---
-title: "Goldman Sachs"
+title: "Internship at GS"
 layout: post
 img: indigo/indigo.png
 blog: true
 author: Shashwat Gupta
 summary: "Internship Experience"
-permalink: goldmansachs
+permalink: interngs
 jemoji: '<img class="emoji" title=":books:" alt=":books:" src="assets/images/posts/goldmansachs/businessplans.png" height="30" width="20" align="absmiddle">'
 ---
-<p>As most graduate students, we read many papers over the course of our PhD and there are few papers which seem to be worthwhile and important. Thishere will be a compilation of what I ahve enjoyed reading in various fields of physics. 
-</p>
+<p>Work in progress</p>
