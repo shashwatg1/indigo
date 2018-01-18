@@ -54,11 +54,11 @@ width: large
 # paginate_path: "blog/:num/"
 
 # if you don't need, comment the configs below
-# research: true
 about: true
 blog: true
 projects: true
 curriculum: true
+map: true
 
 # do you want to show the "read time" of the posts?
 read-time: false
