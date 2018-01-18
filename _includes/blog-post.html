@@ -2,7 +2,7 @@
 {% if post.draft == false %}	
     <div class="item {% if post.star %}star{% endif %}">
         <a class="url" href="{{ site.url }}{{ post.url }}">
-            <aside class="date"><time datetime="{{ post.date | date:"%m-%Y" }}">{{ post.date | date: "%m %Y" }}</time></aside>
+            <aside class="date"><time datetime="{{ post.date | date:"%B %Y" }}">{{ post.date | date: "%B %Y" }}</time></aside>
             <h3 class="title">{{ post.title }}</h3>
         </a>
     </div>
